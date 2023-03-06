@@ -1,0 +1,5 @@
+package classobjectfunparam
+
+object ObjectRumah {
+
+}
